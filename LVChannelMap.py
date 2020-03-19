@@ -1,4 +1,4 @@
-SCmap = {0: 'time [seconds]',\
+LVmap = {0: 'time [seconds]',\
 1: 'TC0 Cu Bot [K]',\
 2: 'TC1 Cell Top',\
 3: 'TC2 Cell Mid',\
